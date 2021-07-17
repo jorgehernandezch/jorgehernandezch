@@ -7,7 +7,11 @@
 
 
 ## Un poco de mi 🚀
-I'm a {backend, frontend and mobile} developer.
+I'm a {
+   'backend' => 'Laravel, Node JS',
+   'frontend' => 'ReactJS',
+   'mobile' => 'ReactNative'
+}->('developer');
 
 - [Blog](https://jhernandezch.tumblr.com/) ✍🏼 - I'm write about many things.
 - [Website](https://jhernandezch.com/) 💻 - Working on it.
