@@ -7,12 +7,12 @@
 ## A bit of me 🚀
 ```
 I'm a ('developer',[
-   'languages'=> ['html','css','javascript','php','typescript'],
-   'frontend' => 'ReactJS',
-   'mobile' => 'ReactNative'
-   'backend' => 'Laravel, Node JS',
-   'arquitec'=> 'AWS'
-])->('full-stack');
+   'languages' => ['html','css','javascript','php','typescript'],
+   'frontend'  => ['ReactJS','Livewire'],
+   'mobile'    => 'ReactNative'
+   'backend'   => ['Laravel, Node JS'],
+   'deploy     => ['AWS','Digital Ocean','Heroku'],
+])->('full-stack-developer');
 ```
 <div style="display: flex; flex-direction:row; justify-content:space-between; width:100%">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jorgehernandezch&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/>
