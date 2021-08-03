@@ -11,6 +11,7 @@ I'm a ('developer',[
    'frontend'  => ['ReactJS','Livewire'],
    'mobile'    => 'ReactNative'
    'backend'   => ['Laravel, Node JS'],
+   'database'  => ['mysql','Mongo DB'],
    'deploy     => ['AWS','Digital Ocean','Heroku'],
 ])->('full-stack-developer');
 ```
