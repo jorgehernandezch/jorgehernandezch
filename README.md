@@ -12,7 +12,8 @@ I'm a ('developer',[
    'framew-css' => ['Boostrap','Tailwind'],
    'mobile'     => 'ReactNative'
    'backend'    => ['Laravel, Node JS'],
-   'database'   => ['mysql','Mongo DB'],
+   'database'   => ['Mysql','Mongo DB'],
+   'CI/CD'      => ['Git','Github','Bitbucket','Jira','Docker']
    'deploy'     => ['AWS','Digital Ocean','Heroku','Vercel'],
 ])->('full-stack-developer');
 ```
@@ -30,12 +31,13 @@ I'm a ('developer',[
   <img align="center" alt="Tailwindcss" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg">
   <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg">
 </div>
-
+<br>
 <div style="display: flex; flex-direction:row; justify-content:space-between; width:100%">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jorgehernandezch&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgehernandezch&layout=compact&langs_count=7&theme=prussian"/>
 </div>
---- 
+<br>
+
 [Blog](https://jhernandezch.tumblr.com/) ✍🏼 - I'm write about many things.
 
 [Website](https://jhernandezch.com/) 💻 - Working on it.
