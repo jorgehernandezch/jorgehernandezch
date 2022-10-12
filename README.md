@@ -8,10 +8,12 @@
 ```
 I'm a ('developer',[
    'languages'  => ['html','css','php','javascript','typescript'],
-   'frontend'   => ['ReactJS','Livewire'],
-   'framew-css' => ['Boostrap','Tailwind'],
-   'mobile'     => 'ReactNative'
-   'backend'    => ['Laravel, Node JS'],
+   'frameworks' => [
+      'frontend' => ['ReactJS','Livewire'],
+      'css'      => ['Boostrap','Tailwind'],
+      'mobile'   => 'ReactNative',
+      'backend'  => ['Laravel, Node JS'],
+   ],
    'database'   => ['Mysql','Mongo DB'],
    'CI/CD'      => ['Git','Github','Bitbucket','Jira','Docker']
    'deploy'     => ['AWS','Digital Ocean','Heroku','Vercel'],
