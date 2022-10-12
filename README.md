@@ -7,12 +7,13 @@
 ## A bit of me 🚀
 ```
 I'm a ('developer',[
-   'languages' => ['html','css','javascript','php','typescript'],
-   'frontend'  => ['ReactJS','Livewire'],
-   'mobile'    => 'ReactNative'
-   'backend'   => ['Laravel, Node JS'],
-   'database'  => ['mysql','Mongo DB'],
-   'deploy     => ['AWS','Digital Ocean','Heroku'],
+   'languages'  => ['html','css','php','javascript','typescript'],
+   'frontend'   => ['ReactJS','Livewire'],
+   'framew-css' => ['Boostrap','Tailwind'],
+   'mobile'     => 'ReactNative'
+   'backend'    => ['Laravel, Node JS'],
+   'database'   => ['mysql','Mongo DB'],
+   'deploy'     => ['AWS','Digital Ocean','Heroku','Vercel'],
 ])->('full-stack-developer');
 ```
 <div style="display: flex; flex-direction:row; justify-content:space-between; width:100%">
@@ -21,12 +22,13 @@ I'm a ('developer',[
 </div>
 <div style="display: inline_block">
    <br>
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="Html-5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">
+  <img align="center" alt="CSS-3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg">
+  <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
+  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="ReactJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   
 </div>
 
