@@ -47,4 +47,4 @@ I'm a ('developer',[
 
 ---
 [Jorge Edo. Hernández](https://github.com/jorgehernandezch)  
-_Ingeniero y Desarrollador Web_
+_Engineer and Web Developer_
