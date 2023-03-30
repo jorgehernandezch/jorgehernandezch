@@ -7,7 +7,7 @@
 ## A bit of me 🚀
 ```
 I'm a ('developer',[
-   'languages'  => ['html','css','php','javascript','typescript'],
+   'languages'  => ['html','css','php','javascript','typescript','Git'],
    'frameworks' => [
       'frontend' => ['ReactJS','Livewire'],
       'css'      => ['Boostrap','Tailwind'],
@@ -15,7 +15,7 @@ I'm a ('developer',[
       'backend'  => ['Laravel, Node JS'],
    ],
    'database'   => ['Mysql','Mongo DB'],
-   'CI/CD'      => ['Git','Github','Bitbucket','Jira','Docker']
+   'CI/CD'      => ['Github','Bitbucket','Jira','Docker']
    'deploy'     => ['AWS','Digital Ocean','Heroku','Vercel'],
 ])->('full-stack-developer');
 ```
