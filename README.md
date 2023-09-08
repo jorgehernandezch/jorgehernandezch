@@ -7,14 +7,14 @@
 ## A bit of me 🚀
 ```
 I'm a ('developer',[
-   'languages'  => ['html','css','php','javascript','typescript','Git'],
+   'languages'  => ['html','css','php','javascript','typescript','git'],
    'frameworks' => [
-      'frontend' => ['ReactJS','Livewire'],
+      'frontend' => ['ReactJS','NextJS','Livewire'],
       'css'      => ['Boostrap','Tailwind'],
       'mobile'   => 'ReactNative',
       'backend'  => ['Laravel, Node JS'],
    ],
-   'database'   => ['Mysql','Mongo DB'],
+   'database'   => ['Mysql','Postgres'],
    'CI/CD'      => ['Github','Bitbucket','Jira','Docker']
    'deploy'     => ['AWS','Digital Ocean','Heroku','Vercel'],
 ])->('full-stack-developer');
